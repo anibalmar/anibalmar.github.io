@@ -24,14 +24,14 @@ Autor: Ing. Anibal G. Martinez Arcia
 	</div>
 
 	<nav class="menu">
-		<a href="#">¿Quiénes somos?</a>
-		<a href="#">Nuestros Servicios</a>
+		<a href="#quienes-somos">¿Quiénes somos?</a>
+		<a href="#nuestros-serv">Nuestros Servicios</a>
 		<a href="#contacto-pie">Contáctanos</a>
 	</nav>
 
 	<main class="container">
 		<div class="row nosotros justify-content-center">
-			<div class="col-12 text-center">
+			<div class="col-12 text-center" id="quienes-somos">
 				<h2 class="subtitulo"><span>Quiénes somos?</span></h2>
 				<h3 class="titulo">Empresa 100% Colombiana</h3>
 				<p>
@@ -52,7 +52,7 @@ Autor: Ing. Anibal G. Martinez Arcia
 			</div>
 		</div>
 
-		<div class="row productos">
+		<div class="row productos" id="nuestros-serv">
 			<article class="col-12 text-center">
 				<h2 class="subtitulo"><span>Nuestros Servicios</span></h2>
 				<p class="titulo">Te ofrecemos</p>
@@ -90,7 +90,7 @@ Autor: Ing. Anibal G. Martinez Arcia
 						<figure class="producto">
 							<img src="img/products/urbano.jpg" class="img-fluid" alt="">
 							<figcaption class="overlay">
-								<a href="#">
+								<a href="#mensajeria-urbana">
 									<p class="overlay-texto">Mensajería Urbana</p>
 								</a>
 							</figcaption>
@@ -101,7 +101,7 @@ Autor: Ing. Anibal G. Martinez Arcia
 						<figure class="producto">
 							<img src="img/products/interna.jpg" class="img-fluid" alt="">
 							<figcaption class="overlay">
-								<a href="#">
+								<a href="#mensajeria-interna">
 									<p class="overlay-texto">Mensajería Interna</p>
 								</a>
 							</figcaption>
@@ -112,7 +112,7 @@ Autor: Ing. Anibal G. Martinez Arcia
 						<figure class="producto">
 							<img src="img/products/contratos.jpg" class="img-fluid" alt="">
 							<figcaption class="overlay">
-								<a href="#">
+								<a href="#contratos-serv">
 									<p class="overlay-texto">Contratos Servicios Postales</p>
 								</a>
 							</figcaption>
@@ -134,9 +134,10 @@ Autor: Ing. Anibal G. Martinez Arcia
 
 	<div class="container">
 		<div class="row acerca-de justify-content-around">
-			<article class="col-10 col-sm-5">
-				<figure class="text-center" id="mensajeria-nac">
-					<img src="img/icons/icon-team.png" alt="">
+			<!-- Mensajería Nacional -->
+			<article class="col-10 col-sm-5" id="mensajeria-nac">
+				<figure class="text-center">
+					<img src="img/icons/icon-delivery.png" alt="">
 					<figcaption>
 						<p>
 							<strong class="mb-2">Mensajería Nacional</strong>
@@ -151,9 +152,10 @@ Autor: Ing. Anibal G. Martinez Arcia
 				</figure>
 			</article>
 
-			<article class="col-10 col-sm-5">
-				<figure class="text-center" id="mensajeria-internac">
-					<img src="img/icons/icon-services.png" alt="">
+			<!-- Mensajería Internacional -->
+			<article class="col-10 col-sm-5"  id="mensajeria-internac">
+				<figure class="text-center">
+					<img src="img/icons/icon-delivery-inter.png" alt="">
 					<figcaption>
 						<p>
 							<strong class="mb-2">Mensajería Internacional</strong>
@@ -167,6 +169,60 @@ Autor: Ing. Anibal G. Martinez Arcia
 					</figcaption>
 				</figure>
 			</article>
+			
+			<!-- Mensajería Urbana -->
+			<article class="col-10 col-sm-5"  id="mensajeria-urbana">
+				<figure class="text-center">
+					<img src="img/icons/icon-urbana.png" alt="">
+					<figcaption>
+						<p>
+							<strong class="mb-2">Mensajería Urbana</strong>
+							<div class="w-100"></div>
+							Lorem, ipsum dolor sit amet consectetur 
+							adipisicing elit. Voluptatem totam dolorem error.
+							Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+							Accusamus vel nemo nulla tenetur illo explicabo nostrum 
+							cumque esse in laudantium.
+						</p>
+					</figcaption>
+				</figure>
+			</article>
+			
+			<!-- Mensajería Interna -->
+			<article class="col-10 col-sm-5"  id="mensajeria-interna">
+				<figure class="text-center">
+					<img src="img/icons/icon-interna.png" alt="">
+					<figcaption>
+						<p>
+							<strong class="mb-2">Mensajería Interna</strong>
+							<div class="w-100"></div>
+							Lorem, ipsum dolor sit amet consectetur 
+							adipisicing elit. Voluptatem totam dolorem error.
+							Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+							Accusamus vel nemo nulla tenetur illo explicabo nostrum 
+							cumque esse in laudantium.
+						</p>
+					</figcaption>
+				</figure>
+			</article>
+				
+			<!-- Contratos y servicios Postales -->
+			<article class="col-10 col-sm-5"  id="contratos-serv">
+				<figure class="text-center">
+					<img src="img/icons/icon-contrato.png" alt="">
+					<figcaption>
+						<p>
+							<strong class="mb-2">Contratos y Servicios Postales</strong>
+							<div class="w-100"></div>
+							Lorem, ipsum dolor sit amet consectetur 
+							adipisicing elit. Voluptatem totam dolorem error.
+							Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+							Accusamus vel nemo nulla tenetur illo explicabo nostrum 
+							cumque esse in laudantium.
+						</p>
+					</figcaption>
+				</figure>
+			</article>			
 		</div>
 	</div>
 	<!-- Fin Descripción de servicios-->
@@ -185,6 +241,7 @@ Autor: Ing. Anibal G. Martinez Arcia
 		</div>
 	</div>
 
+	<!-- Pie de Página -->
 	<div class="container-fluid">
 		<section class="contacto row justify-content-center" id="contacto-pie">
 			<div class="col-12 col-md-9 text-center">
