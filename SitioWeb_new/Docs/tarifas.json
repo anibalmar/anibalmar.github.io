@@ -1,0 +1,86 @@
+[{
+    "destino": "SERVICIO DE DOCUMENTOS Y MUESTRAS INTERNACIONALES 2021",
+    "tipo": "T"
+
+}, {
+    "destino": "TARIFAS DESTINO",
+    "dias": "TRANSITO",
+    "primlibra": "PRIMERA LIBRA",
+    "libraadic": "LIBRA ADICIONAL",
+    "tipo": "E"
+}, {
+    "destino": "MIAMI",
+    "dias": "2 DIAS",
+    "primlibra": "US$28",
+    "libraadic": "US$6",
+    "tipo": ""
+}, {
+    "destino": "NYC",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$30",
+    "libraadic": "US$6",
+    "tipo": ""
+}, {
+    "destino": "RESTO USA",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$32",
+    "libraadic": "US$6",
+    "tipo": ""
+}, {
+    "destino": "CANADA",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$32",
+    "libraadic": "US$6",
+    "tipo": ""
+}, {
+    "destino": "SUR AMERICA",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$30",
+    "libraadic": "US$7",
+    "tipo": ""
+}, {
+    "destino": "MÉXICO",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$30",
+    "libraadic": "US$8",
+    "tipo": ""
+}, {
+    "destino": "PANAMA",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$28",
+    "libraadic": "US$8",
+    "tipo": ""
+}, {
+    "destino": "CENTRO AMERICA ISLAS",
+    "tipo": "T"
+}, {
+    "destino": "TARIFAS DESTINO",
+    "dias": "TRANSITO",
+    "primlibra": "PRIMERA LIBRA",
+    "libraadic": "LIBRA ADICIONAL",
+    "tipo": "E"
+}, {
+    "destino": "CARIBE",
+    "dias": "3 DIAS",
+    "primlibra": "US$35",
+    "libraadic": "US$11",
+    "tipo": ""
+}, {
+    "destino": "EUROPA",
+    "dias": "2-3 DIAS",
+    "primlibra": "US$45",
+    "libraadic": "US$11",
+    "tipo": ""
+}, {
+    "destino": "RESTO DEL MUNDO",
+    "dias": "2-5 DIAS",
+    "primlibra": "US$51",
+    "libraadic": "US$16",
+    "tipo": ""
+}, {
+    "destino": "Los envíos se liquidaran a la tasa representativa del día del despacho, no están incluidos los cargos por combustible.",
+    "tipo": "P"
+}, {
+    "destino": "<span class='font-weight-bold'>Nota: </span> Las muestras pueden estar sujetas a pago de impuestos según regulaciones para ingreso al país.<br><br>",
+    "tipo": "P"
+}]

@@ -1,0 +1,121 @@
+[{
+    "destino": "SERVICIO DE DOCUMENTOS Y MUESTRAS NACIONALES 2021",
+    "tipo": "T"
+
+}, {
+    "destino": "Ofrecemos el servicio de entregas y recolecciones a nivel nacional",
+    "tipo": "P"
+}, {
+    "destino": "Entregas y recolecciones de lunes a viernes, sábados a solicitud",
+    "tipo": "P"
+}, {
+    "destino": "Todos los envíos deben llevar valor declarado. Máximo valor a declarar $5.000.000,00  con una prima del 2% sobre el valor declarado",
+    "tipo": "P"
+}, {
+    "destino": "Confirmación de entrega inmediata",
+    "tipo": "S"
+}, {
+    "destino": "NACIONAL PRINCIPALES CIUDADES",
+    "tipo": "T"
+}, {
+    "destino": "PRIMER KILO",
+    "kilos": "$10.000,00",
+    "tipo": ""
+}, {
+    "destino": "KILO ADICIONAL",
+    "kilos": "$  2.500,00",
+    "tipo": ""
+}, {
+    "destino": "URBANO",
+    "tipo": "T"
+}, {
+    "destino": "PRIMER KILO",
+    "kilos": "$  5.000,00",
+    "tipo": ""
+}, {
+    "destino": "KILO ADICIONAL",
+    "kilos": "$  2.000,00",
+    "tipo": ""
+}, {
+    "destino": "SABANA Y POBLACIONES ALEDAÑAS",
+    "tipo": "T"
+}, {
+    "destino": "PRIMER KILO",
+    "kilos": "$  7.000,00",
+    "tipo": ""
+}, {
+    "destino": "KILO ADICIONAL",
+    "kilos": "$  2.500,00",
+    "tipo": ""
+}, {
+    "destino": "SERVICIO   DE PAQUETERIA URBANOS Y NACIONALES 2021",
+    "tipo": "T"
+}, {
+    "destino": "Ofrecemos el servicio de entregas y recolecciones a nivel urbano y nacional",
+    "tipo": "P"
+}, {
+    "destino": "Entregas y recolecciones de lunes a viernes, sábados a solicitud",
+    "tipo": "P"
+}, {
+    "destino": "Todos los envíos deben llevar valor declarado. Máximo valor a declarar $50.000.000,00  con una prima del 2% sobre el valor declarado",
+    "tipo": "P"
+}, {
+    "destino": "Confirmación de entrega inmediata",
+    "tipo": "S"
+}, {
+    "destino": "DESTINOS",
+    "primerkl": "PRIMER KILO",
+    "kladi": "KILO ADICIONAL",
+    "tipo": "C"
+}, {
+    "destino": "Servicio Urbano",
+    "primerkl": "$6.500",
+    "kladi": "$2.000",
+    "tipo": "Y"
+}, {
+    "destino": "Regional Bogotá",
+    "primerkl": "$8.500",
+    "kladi": "$2.500",
+    "tipo": "Y"
+}, {
+    "destino": "Principales Ciudades",
+    "primerkl": "$12.000",
+    "kladi": "$3.000",
+    "tipo": "Y"
+}, {
+    "destino": "Otros destinos",
+    "primerkl": "$15.000",
+    "kladi": "$3.000",
+    "tipo": "Y"
+}, {
+    "destino": "Destinos lejanos",
+    "primerkl": "$21.000",
+    "kladi": "$4.500",
+    "tipo": "Y"
+}, {
+    "destino": "Destinos Especiales",
+    "primerkl": "$28.000",
+    "kladi": "$5.000",
+    "tipo": "Y"
+}, {
+    "destino": "OTROS SERVICIOS",
+    "tipo": "T"
+}, {
+    "destino": "1º. Diseño y fabricación de Huacales",
+    "tipo": "P"
+}, {
+    "destino": "2º. Servicio de Diligencias urbanas y nacionales",
+    "tipo": "P"
+}, {
+    "destino": "3º. Manejo de Mercancías sobredimensionada",
+    "tipo": "P"
+}, {
+    "destino": "4º. Servicio de Motorizado por horas, días ",
+    "tipo": "P"
+}, {
+    "destino": "5º. Servicio de Recambios",
+    "tipo": "P"
+}, {
+    "destino": "6º. Servicio de carta porte<br><br>",
+    "tipo": "P"
+}]
